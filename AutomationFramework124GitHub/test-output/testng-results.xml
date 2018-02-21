@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34462" started-at="2018-02-15T06:11:35Z" finished-at="2018-02-15T06:12:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34462" started-at="2018-02-15T06:11:35Z" finished-at="2018-02-15T06:12:09Z">
+      <class name="scripts.TestInvalidLogin">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:scripts.TestInvalidLogin@34cd072c]" name="openApplication" is-config="true" duration-ms="10066" started-at="2018-02-15T11:41:35Z" finished-at="2018-02-15T11:41:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testInvalidLogin()[pri:0, instance:scripts.TestInvalidLogin@34cd072c]" name="testInvalidLogin" duration-ms="24133" started-at="2018-02-15T11:41:45Z" finished-at="2018-02-15T11:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.TestInvalidLogin@34cd072c]" name="closeApplication" is-config="true" duration-ms="233" started-at="2018-02-15T11:42:09Z" finished-at="2018-02-15T11:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.TestInvalidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
